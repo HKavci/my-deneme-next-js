@@ -1,0 +1,1 @@
+# my-deneme-next-js
